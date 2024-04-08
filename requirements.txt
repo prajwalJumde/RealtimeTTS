@@ -4,4 +4,4 @@ stream2sentence==0.2.3
 TTS==0.22.0
 tqdm==4.66.2
 pydub==0.25.1
-openai==0.27.0
+openai==0.27.8
